@@ -1,3 +1,18 @@
+
+### Resource
+
+placeimg
+
+# HTML 5
+
+* body
+    * header
+    * main
+    * footer 
+
+* <p></p>
+* <a href=""></a>
+
 # List 
 ```
 <ul>
